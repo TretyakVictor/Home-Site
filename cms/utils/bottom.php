@@ -29,12 +29,3 @@
     </div>
   </body>
 </html>
-<script type='text/javascript' src='/js/scrollup.js'></script>
-<script type="text/javascript">
-  function delete_position(url, ask) {
-    if (confirm(ask)) {
-      location.href=url;
-    }
-    return false;
-  }
-</script>

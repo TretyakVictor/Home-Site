@@ -1,2 +1,4 @@
 configs/mysql.config.cms.php
 configs/mysql.config.php
+.idea/
+*.log
